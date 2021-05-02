@@ -46,7 +46,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-5、[awesome-python-webapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
+5、[awesome-python-webapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 6、[Minos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
 
